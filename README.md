@@ -1,4 +1,4 @@
-# unit-converter 🔁
+# unit-converter 🪸
 
 An application to convert between different units of measurement including length, weight, speed, temperature and digital storage 
 
